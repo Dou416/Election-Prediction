@@ -1,4 +1,4 @@
-# Amrica Election Prediction in 2012
+# America Election Prediction in 2012
 
 MG-GY 8401 assignment
 
